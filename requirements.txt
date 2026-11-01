@@ -1,0 +1,7 @@
+# Python 3.13. torch is pinned to 2.8 because newer builds crash on MPS on macOS 14.
+pyannote.audio==4.0.7
+torch==2.8.0
+torchaudio==2.8.0
+mlx-whisper==0.4.3
+soundfile
+yt-dlp

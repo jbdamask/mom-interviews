@@ -1,0 +1,7 @@
+.venv/
+audio/
+work/
+models/
+__pycache__/
+.venv*/
+.venv-active
